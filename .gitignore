@@ -4,3 +4,5 @@ npm-debug.log*
 *.log
 dist/
 .DS_Store
+saida.txt
+grande.txt

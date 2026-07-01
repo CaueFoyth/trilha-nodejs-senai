@@ -1,0 +1,6 @@
+{
+  "name": "modulo02-pratica",
+  "version": "1.0.0",
+  "description": "Exercícios práticos do módulo 02 (fundamentos do Node.js). Só usa módulos nativos.",
+  "main": "01-servidor-http.js"
+}

@@ -1,0 +1,6 @@
+{
+  "appName": "Trilha Node",
+  "versao": "1.0.0",
+  "porta": 3000,
+  "debug": true
+}

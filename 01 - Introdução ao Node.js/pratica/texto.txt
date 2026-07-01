@@ -1,0 +1,2 @@
+Este é um arquivo de texto de exemplo.
+Ele é lido pelo script 05-ler-arquivo.js usando o módulo fs.

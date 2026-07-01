@@ -1,0 +1,16 @@
+{
+  "name": "modulo01-pratica",
+  "version": "1.0.0",
+  "description": "Exercícios práticos do módulo 01 da Trilha de Node.js",
+  "main": "01-bem-vindo.js",
+  "scripts": {
+    "start": "node 01-bem-vindo.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.2",
+    "chalk": "^4.1.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
