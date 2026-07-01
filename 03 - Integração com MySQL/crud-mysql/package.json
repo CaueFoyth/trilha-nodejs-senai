@@ -1,0 +1,14 @@
+{
+  "name": "modulo03-crud-mysql",
+  "version": "1.0.0",
+  "description": "CRUD em Node.js com MySQL usando pool, prepared statements e módulos separados",
+  "main": "index.js",
+  "scripts": {
+    "criar-tabela": "node criarTabela.js",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "mysql2": "^3.10.0"
+  }
+}
